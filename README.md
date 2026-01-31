@@ -81,10 +81,33 @@ In this example, the player picks up the 5 abandoned balls immediately to see th
 
 Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to [Roguemon.gg](https://github.com/Crozwords/Roguemon) for rules clarification or the [Roguemon Discord](https://discord.gg/YPhF5D3P).
 
+---
+
+<h1 align="center">Tiebreakers</h1>
+
+In the case of both players ending on the same segment, there are a few tiebreakers to determine the winner:
+1) The player that defeated the most trainers in the final segment wins the tiebreaker.
+2) If both players defeated the same number of trainers, then the player who defeated the most pokemon in the final segment wins the tiebreaker.
+3) If both players defeated the same number of trainers and pokemon, then the player who reached the personal best in the lower number of seeds win the tiebreaker.
+
+<p align="center">**Please note that the final tiebreaker is especially pertinent for tiebreakers that beat Champion (frequently happens in A1).**</p>
+
+#### Penalty Modifiers
+An additional tiebreaker condition can be applied to Rivals. Please note that these should be discussed ahead of time with your opponent and only apply to cases invovling the third tiebreaker.
+
+A penalty modifier increases your overall seed count if a specific condition is activated during your longest PB. Please note that this only applies to the third tiebreaker (Players defeating the same number of trainers and pokemon). The modifers are as follows:
+
+![Penalty Modifiers](Resources/Penalty-Modifiers.PNG)
 
 ---
 
 <h1 align="center">Alternative Formats</h1>
+
+## Tournament Series:
+
+(Winter Invitational)[https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series]
+
+---
 
 ## Alphabet Draft
 An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable! Ideally this is a format that excels with 8 players however it is feasible with at least 2. If playing with less than 4 players, each letter should only be drafted a single time.
