@@ -1,6 +1,6 @@
 # Roguemon Rivals Tournament Series
 
-### [DRAFTING PHASE](#DRAFTING-PHASE) | [PIVOTING GUIDELINES](#PIVOTING-GUIDELINES) | [ALTERNATIVE FORMATS](#ALTERNATIVE-FORMATS) | [RESOURCES](#RESROUCES) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
+### [DRAFTING PHASE](#DRAFTING-PHASE) | [PIVOTING GUIDELINES](#PIVOTING-GUIDELINES) | [TIEBREAKERS](#TIEBREAKERS) | [ALTERNATIVE FORMATS](#ALTERNATIVE-FORMATS) | [RESOURCES](#RESROUCES) | [FAQ](#FREQUENTLY-ASKED-QUESTIONS) |
 
 ---
 
@@ -105,7 +105,7 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 ## Tournament Series:
 
-(Winter Invitational)[https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series]
+[Winter Invitational (2026)](https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series)
 
 ---
 
