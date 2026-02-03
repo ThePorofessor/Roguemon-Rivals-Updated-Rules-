@@ -103,70 +103,23 @@ A penalty modifier increases your overall seed count if a specific condition is 
 
 <h1 align="center">Alternative Formats</h1>
 
-## Tournament Series:
+[Tournament Series](https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series)
+    The Roguemon Rivals Tournament Series pits 16 players against each other in a single elimination tournament. Each round players go head to head to reach the furthest PB across three types. First player to win 2 types wins the match up and advances to next round.
 
-[Winter Invitational (2026)](https://github.com/ThePorofessor/Roguemon-Rivals-Tournament-Series)
+[Alphabet Draft](https://github.com/ThePorofessor/-Rogue-Rivals-Alphabet-Draft)
+    The Alphabet Draft is a subset rules format for Roguemon Rivals where players draft favorite letters instead of specific Pokemon. These favorite letters are then used to pick their pivots in typeless runs.
 
----
-
-## Alphabet Draft
-An alphabet draft is very similar to the normal Roguemon Rivals experience with the exception of what you are drafting. Rather than selecting specific pokemon, you will be drafting the letters of the alphabet. Any pokemon starting with the letter is runnable! Ideally this is a format that excels with 8 players however it is feasible with at least 2. If playing with less than 4 players, each letter should only be drafted a single time.
-
-### Round Structure
-The alphabet draft will consist of 8 players in a free for all format battling it out across 100 Typeless seeds. Players will draft favorite letters that they are allowed to run and there will be no universal picks. Since all the letters will be drafted, players will only be allowed to run Pokemon starting with favorite letters! After 2 weeks players will be ranked based on their furthest PB.
-
-### Drafting Rules
-All players will get the chance to draft 6 favorite letters. To ensure fairness, pick order will be randomized and conducted through a snake style draft (1-2-3-4-5-6-7-8-8-7-6-5-4-3-2-1).
-Please note that some letters are stronger than others. This could mean having a larger pivot pool (enabling more runs) and higher average BST (more likely to get a better PB). Therefore, make sure you draft wisely or you might be ball locked frequently.
-
-### Pivoting Rules
-While in the lab ALL Pokemon can be used to get out. There are no limits to what you pick off of the table. However once you are out of the lab, you must run a Pokemon starting with oen of your favorite letters. This is not always guaranteed based on how you drafted. If there are no favorites, then you may run the lab pokemon.
-
-Let the chaos begin!
-
-<details>
-<summary><strong>Letter Statistics (Amount of Pokemon)</strong></summary>
-Please note that for these stats Pokemon that have different unique forms (Burmy, Pumpkaboo, etc.) are only counted once. Additionally, everything was calculated through ChatGPT so there will be errors.
-  
-| Letter | Number of Pokemon | Average BST | Lowest BST| Highest BST |
-|:---:|---|---|---|---|
-| <p align="center">A</p> | <p align="center">10</p> | <p align="center">316.80</p> | <p align="center">190 (Azurill)</p> | <p align="center">401 (Archen)</p> |
-| <p align="center">B</p> | <p align="center">21</p> | <p align="center">287.95</p> | <p align="center">190 (Blipbug)</p> | <p align="center">460 (BasculinW)</p> |
-| <p align="center">C</p> | <p align="center">32</p> | <p align="center">312.88</p> | <p align="center">195 (Caterpie)</p> | <p align="center">410 (Corsola/CorsolaG)</p> |
-| <p align="center">D</p> | <p align="center">19</p> | <p align="center">323.42</p> | <p align="center">265 (Diglett/DiglettA)</p> | <p align="center">415 (Dunsparce)</p> |
-| <p align="center">E</p> | <p align="center">7</p> | <p align="center">326.14</p> | <p align="center">288 (Ekans)</p> | <p align="center">360 (Elekid)</p> |
-| <p align="center">F</p> | <p align="center">17</p> | <p align="center">313.41</p> | <p align="center">200 (Feebas)</p> | <p align="center">377 (Farfetch'd/Farfetch'dG)</p> |
-| <p align="center">G</p> | <p align="center">23</p> | <p align="center">346.82</p> | <p align="center">290 (Gothita/Greavard)</p> | <p align="center">455 (Giraffarig)</p> |
-| <p align="center">H</p> | <p align="center">9</p> | <p align="center">285.11</p> | <p align="center">220 (Happiny)</p> | <p align="center">330 (Hippopotas/Houndour)</p> |
-| <p align="center">I</p> | <p align="center">3</p> | <p align="center">254.33</p> | <p align="center">210 (Igglybuff)</p> | <p align="center">288 (Inkay)</p> |
-| <p align="center">J</p> | <p align="center">2</p> | <p align="center">309.50</p> | <p align="center">300 (Jangmo-O)</p> | <p align="center">319 (Joltik)</p> |
-| <p align="center">K</p> | <p align="center">7</p> | <p align="center">316.29</p> | <p align="center">194 (Kricketot)</p> | <p align="center">385 (Kubfu)</p> |
-| <p align="center">L</p> | <p align="center">12</p> | <p align="center">325.67</p> |<p align="center"> 220 (Lotad)</p> | <p align="center">385 (Lickitung)</p> |
-| <p align="center">M</p> | <p align="center">28</p> | <p align="center">317.03</p> | <p align="center">200 (Magikarp)</p> | <p align="center">435 (Misdreavus)</p> |
-| <p align="center">N</p> | <p align="center">8</p> | <p align="center">280.75</p> | <p align="center">210 (Nymble)</p> | <p align="center">375 (Nosepass)</p> |
-| <p align="center">O</p> | <p align="center">4</p> | <p align="center">342.00</p> | <p align="center">308 (Oshawott)</p> | <p align="center">385 (Onix)</p> |
-| <p align="center">P</p> | <p align="center">32</p> | <p align="center">318.53</p> | <p align="center">205 (Pichu)</p> | <p align="center">420 (Poipole)</p> |
-| <p align="center">Q</p> | <p align="center">3</p> | <p align="center">396.70</p> | <p align="center">310 (Quaxly)</p> | <p align="center">396.7 (Qwilfish/Hisuian Qwilfish)</p> |
-| <p align="center">R</p> | <p align="center">13</p> | <p align="center">280.75</p> | <p align="center">198 (Ralts)</p> | <p align="center">350 (Rufflet)</p> |
-| <p align="center">S</p> | <p align="center">63</p> | <p align="center">303.44</p> | <p align="center">180 (Sunkern)</p> | <p align="center">465 (Stantler)</p> |
-| <p align="center">T</p> | <p align="center">24</p> | <p align="center">304.50</p> | <p align="center">210 (Tyrogue)</p> | <p align="center">435 (Tangela)</p> |
-| <p align="center">U</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> |
-| <p align="center">V</p> | <p align="center">9</p> | <p align="center">310.90</p> | <p align="center">260 (Venipede)</p> | <p align="center">370 (Vullaby)</p> |
-| <p align="center">W</p> | <p align="center">14</p> | <p align="center">250.20</p> | <p align="center">175 (Wishiwashi)</p> | <p align="center">400 (Wailmer)</p> |
-| <p align="center">X</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> | <p align="center">0</p> |
-| <p align="center">Y</p> | <p align="center">5</p> | <p align="center">303.80</p> | <p align="center">253 (Yungoos)</p> | <p align="center">390 (Yanma)</p> |
-| <p align="center">Z</p> | <p align="center">5</p> | <p align="center">277.00</p> | <p align="center">240 (Zigzagoon/ZigzagoonG)</p> | <p align="center">460 (Zorua/ZoruaH)</p> |
-</details>
-
+Tag Team Brawl - Coming Soon
 
 ---
+
 <h1 align="center">RESOURCES</h1>
 
 <details>
 <summary><strong>📁 Resources</strong></summary>
 
-- 📝 [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
-- 📈 [Scoreboard Template (Make a Copy)](https://docs.google.com/spreadsheets/d/1AbWa4WPAQiyzlvI2I5l_m0M3YqE-ZPL32wDu0jRsoHI/edit?gid=0#gid=0)
+- [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1w-vIBTVtaFTtdZ5n6jUGxO-SaW-L_5P-QvtL8cfddMo/edit?gid=1594516166#gid=1594516166)
+- [Scoreboard Template (Make a Copy)](https://docs.google.com/spreadsheets/d/1AbWa4WPAQiyzlvI2I5l_m0M3YqE-ZPL32wDu0jRsoHI/edit?gid=0#gid=0)
 - :camera: [Pokemon Sprites (Sugimori and Global Artwork)](https://drive.google.com/drive/folders/1QnI2yFlTVyjq3geyzwmnrr3_cxNlNjzI?usp=sharing)
 
 </details>
