@@ -79,7 +79,7 @@ In this example, the player picks up the 5 abandoned balls immediately to see th
 
 **Please note that these pivots are most likely going to be sub-optimal. This is the challenge of Rivals, so make sure your drafting phase is setting you up for success!**
 
-Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to [Roguemon.gg](https://github.com/Crozwords/Roguemon) for rules clarification or the [Roguemon Discord](https://discord.gg/YPhF5D3P).
+Once you have selected your pivot you are ready to start running! Normal A2 Roguemon rules apply so please refer to [Roguemon.gg](https://github.com/Crozwords/Roguemon) for rules clarification or the [Roguemon Discord](https://discord.com/invite/uutypZMtTk).
 
 ---
 
